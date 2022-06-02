@@ -144,7 +144,7 @@ cotizar.addEventListener('click', ()=>{
     let sumaAseguradaGuardada=sumaAseguradaAuto();
 
     let gncGuardada=gncAuto();
-    let okmGuardada=gncAuto()
+    let okmGuardada=okmAuto()
     let planGuardada=planAuto()
     
 
