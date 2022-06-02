@@ -216,7 +216,7 @@ document.getElementById('btnVolver2').addEventListener('click', ()=>{
     let ocultarContenido=document.getElementById('form');
     ocultarContenido.style.display='none';
     let ocultarContenido1=document.getElementById('detalleCoti');
-    ocultarContenido1.style.display='none'
+    ocultarContenido1.style.display='none';
 
     
 })
